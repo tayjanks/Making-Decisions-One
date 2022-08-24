@@ -50,13 +50,7 @@ let rain = true;
 */
 
 //CODE HERE
-if (tempature >= 80)(rain=true){console.log ("You should wear a t-shirt and take an umbrella.")}
-else if (tempature > 60)(tempature < 80) (rain=true){console.log(" You should wear a rain-jacket.")}
-else if (tempature <60)(rain=true){console.log("You should wear a jacket and take an umbrella")}
-else if (tempature >= 80)(rain=false){console.log ("You should wear a t-shirt, no need for an umbrella.")}
-else if (tempature > 60)(tempature < 80) (rain=false){console.log("Take a jacket just to be safe.")}
-else if (tempature <60)(rain=false){console.log("You should wear a jacket, no need to take an umbrella")}
-else [console.log ("Check the weather!")];
+
 
 
 
