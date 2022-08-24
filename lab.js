@@ -12,8 +12,8 @@ if (lovesCode === true) {console.log ("I love to code!")}
 else  [console.log ("Coding has its challenges.")];
 
 // For problems 2-3 use the following lines of code:
-var amysAge = 29;
-var brittanisAge = 34;
+var amysAge = 24;
+var brittanisAge = 24;
 var amysBirthYear = 1991;
 var brittanisBirthYear = 1986;
 
