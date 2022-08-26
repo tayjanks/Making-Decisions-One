@@ -41,7 +41,7 @@ else [console.log ("Amy and Brittani were not born in the same year")];
 
 ////////// PROBLEM 4 //////////
 
-let temperature = 55;
+let temperature = 69;
 let rain = true;
 
 /*
@@ -50,6 +50,9 @@ let rain = true;
 */
 
 //CODE HERE
+
+if (temperature >= 80 && rain === true) {console.log ("One should wear a t-shirt and take an umbrella.")}
+if (temperature > 60 && temperature < 80 && rain === true) {console.log ("One should wear a rain-jacket")}
 
 
 
