@@ -79,6 +79,7 @@ for (let i = 0; i<10;i++){console.log ("hello")}
 */
 
 //CODE HERE
+for (let i = 1; i<11;i++){console.log (i)}
 
 ////////// PROBLEM 7 //////////
 
